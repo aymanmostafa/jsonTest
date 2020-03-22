@@ -6,30 +6,13 @@
          "logoutTime": 1583334992000,
          "session": 21,
          "interface": "Web"
-      },
-      {
-         "userName": "test1",
-         "loginTime": 1583334992000,
-         "logoutTime": 1583334992000,
-         "session": 21,
-         "interface": "Mobile app"
       }
    ],
-   "totalElements": 15,
+   "totalElements": 1,
    "totalPages": 1,
    "last": true,
    "size": 15,
    "number": 0,
-   "sort": [
-      {
-         "direction": "ASC",
-         "property": "id",
-         "ignoreCase": false,
-         "nullHandling": "NATIVE",
-         "descending": false,
-         "ascending": true
-      }
-   ],
-   "numberOfElements": 15,
+   "numberOfElements": 1,
    "first": true
 }
